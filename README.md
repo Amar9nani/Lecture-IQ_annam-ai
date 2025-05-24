@@ -120,7 +120,3 @@ lectureiq/
 
 For questions or support, contact:
 - Email: namarnadh.9@gmail.com
-
-## License
-
-MIT License - feel free to use this project for your own purposes.
